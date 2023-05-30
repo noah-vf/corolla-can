@@ -1,4 +1,4 @@
-﻿FrameID,Range,Function,Notes
+﻿FrameID,Range (Byte.bit),Function,Notes
 0x1AA,All,No Change While Driving,
 0x1C4,1-2,Under Investigation - Mapped,Something continuous
 0x1C4,7-8,Under Investigation - Mapped,Something continuous
