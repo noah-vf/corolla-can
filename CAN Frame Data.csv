@@ -1,0 +1,31 @@
+﻿FrameID,Range,Function,Notes
+0x1AA,All,No Change While Driving,
+0x1C4,1-2,Under Investigation - Mapped,Something continuous
+0x1C4,7-8,Under Investigation - Mapped,Something continuous
+0x1C8,All,No Change While Driving,
+0x1D0,6,Under Investigation - Mapped,
+0x1D0,8,Under Investigation - Mapped,
+0x1D0,1 -2 ,Under Investigation,Possibly speed
+0x20,All,No Change While Driving,
+0x223,All,No Change While Driving,
+0x224,6,Under Investigation - Mapped,
+0x24,3-4,Under Investigation - Mapped,Seems to rise and fall with engine activity
+0x260,All,Under Investigation,signed doubles 
+0x262,All,No Change While Driving,
+0x263,5,Under Investigation - Mapped,One-byte counter. Goes up with distance traveled. Synced with bit 8
+0x263,8,Under Investigation - Mapped,One-byte counter. Goes up to 255 and then gets unpredictable. Synced with bit 5
+0x2c1,2-3,Under Investigation - Mapped,Signed. Related to engine. Doesn't hit zero during multipoint turns. 
+0x2c1,4-5,Under Investigation,Signed. Unmapped.
+0x2c1,7-8,Under Investigation,Signed. Unmapped.
+0x614,4.5,Emergency Flashers On,
+0x620,6.2,Key in ignition ,
+0x620,6.3,Drivers Door Open,
+0x620,6.4,Passenger Door Open,
+0x620,6.5,Rear Passenger Door Open,
+0x620,6.6,Rear Drivers Door Open,
+0x621,All,Under Investigation,Changes with every lock/unlock command 
+0x623,All,Under investigation,Seemingly lock-related
+0x638,2.1,Under Investigation,Door-related status 1
+0x638,3.4,Drivers Door Unlocked,
+0x638,3.5,Passengers Door Unlocked,
+0x638,4.8,Under Investigation,Door-related status 2
